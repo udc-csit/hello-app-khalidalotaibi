@@ -4,7 +4,7 @@ const PORT = 3000;
 
 function handleRequest(request, response) {
     response.writeHead(200);
-    response.end('Hello World, from khalidalotaibi');
+    response.end('Hello Http, from khalidalotaibi');
 }
 
 
